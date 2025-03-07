@@ -2,7 +2,7 @@
 Este repositorio contiene ejemplos de código ilustrativos sobre programación concurrente y un código fuente más extenso que explica la diferencia entre programación concurrente y programación paralela. Se implementan ambos enfoques para comparar su comportamiento en la ejecución de múltiples tareas y analizar en qué escenarios cada uno es más eficiente.
 
 Tecnologías utilizadas
-Los ejemplos están desarrollados en Python, utilizando los módulos:
+Ejemplos esarrollados en Python, utilizando los módulos:
 
 threading para manejo de hilos.
 multiprocessing para procesamiento paralelo.
