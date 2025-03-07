@@ -11,7 +11,7 @@ Contenido del repositorio
 1. Ejemplos Ilustrativos
 Este apartado contiene pequeños fragmentos de código que demuestran conceptos clave de la programación concurrente.
 
-📌 Para ejecutar: Ingresar a la carpeta Ejemplos_Ilustrativos y abrir en Google Colab.
+-Para ejecutar: Ingresar a la carpeta Ejemplos_Ilustrativos y abrir en Google Colab.
 
 2. Código Fuente - Comparación Concurrencia vs. Paralelismo
 Código más completo que muestra la implementación y comparación entre concurrencia y paralelismo:
@@ -20,6 +20,6 @@ Implementación de concurrencia con threading y asyncio.
 
 Implementación de paralelismo con multiprocessing.
 
-📌 Para ejecutar: Ingresar a la carpeta Codigo_Fuente_Concurrencia_vs_Paralelismo y abrir en Google Colab.
+-Para ejecutar: Ingresar a la carpeta Codigo_Fuente_Concurrencia_vs_Paralelismo y abrir en Google Colab.
 
 Cualquier duda: sisotelo@unal.edu.co
