@@ -21,3 +21,5 @@ Implementación de concurrencia con threading y asyncio.
 Implementación de paralelismo con multiprocessing.
 
 📌 Para ejecutar: Ingresar a la carpeta Codigo_Fuente_Concurrencia_vs_Paralelismo y abrir en Google Colab.
+
+Cualquier duda: sisotelo@unal.edu.co
